@@ -1,0 +1,4 @@
+Este reporte de powerbi , fue con el fin de obtener estadisticas sobre una página web de comida rápida , 
+elaborada por estudiantes de la carrera de sistemas de sistemas de información y mi persona de este este repositorio.
+La pagina web fue hecha con wordpress y fui subida a la web media dreamhost , debido a que este ultimo nos brindaba un host y dominio a
+travez de paga.
